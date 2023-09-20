@@ -1,2 +1,2 @@
-# Sim_Fisic_EGL
+# Sim_Fisica_EGL
 Trabajos de simuladores de fisica
