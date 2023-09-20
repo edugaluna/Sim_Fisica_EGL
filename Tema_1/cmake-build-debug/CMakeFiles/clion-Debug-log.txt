@@ -1,4 +1,15 @@
-C:\Users\Alumnos\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Alumnos/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -DCMAKE_TOOLCHAIN_FILE=C:\Users\Alumnos\.vcpkg-clion\vcpkg\scripts\buildsystems\vcpkg.cmake -G Ninja -S C:\Users\Alumnos\Desktop\simuladores_de_fisicas\Tema_1 -B C:\Users\Alumnos\Desktop\simuladores_de_fisicas\Tema_1\cmake-build-debug
--- Configuring done (0.0s)
--- Generating done (0.0s)
--- Build files have been written to: C:/Users/Alumnos/Desktop/simuladores_de_fisicas/Tema_1/cmake-build-debug
+C:\Users\Alumnos\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Alumnos/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\Alumnos\Desktop\simuladores_de_fisicas\Sim_Fisica_EGL\Tema_1 -B C:\Users\Alumnos\Desktop\simuladores_de_fisicas\Sim_Fisica_EGL\Tema_1\cmake-build-debug
+CMake Error at CMakeLists.txt:8 (find_package):
+  Could not find a package configuration file provided by "box2d" with any of
+  the following names:
+
+    box2dConfig.cmake
+    box2d-config.cmake
+
+  Add the installation prefix of "box2d" to CMAKE_PREFIX_PATH or set
+  "box2d_DIR" to a directory containing one of the above files.  If "box2d"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+
+
+-- Configuring incomplete, errors occurred!

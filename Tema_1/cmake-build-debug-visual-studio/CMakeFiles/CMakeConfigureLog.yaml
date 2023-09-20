@@ -39,7 +39,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
       
       The C compiler identification is MSVC, found in:
-        C:/Users/Alumnos/Desktop/simuladores_de_fisicas/Tema_1/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.exe
+        C:/Users/Alumnos/Desktop/simuladores_de_fisicas/Sim_Fisica_EGL/Tema_1/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.exe
       
   -
     kind: "message-v1"
@@ -51,7 +51,7 @@ events:
     message: |
       Detecting C compiler /showIncludes prefix:
         main.c
-        Nota: inclusión del archivo: C:\\Users\\Alumnos\\Desktop\\simuladores_de_fisicas\\Tema_1\\cmake-build-debug-visual-studio\\CMakeFiles\\ShowIncludes\\foo.h
+        Nota: inclusión del archivo: C:\\Users\\Alumnos\\Desktop\\simuladores_de_fisicas\\Sim_Fisica_EGL\\Tema_1\\cmake-build-debug-visual-studio\\CMakeFiles\\ShowIncludes\\foo.h
         
       Found prefix "Nota: inclusión del archivo: "
   -
@@ -85,7 +85,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
       
       The CXX compiler identification is MSVC, found in:
-        C:/Users/Alumnos/Desktop/simuladores_de_fisicas/Tema_1/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.exe
+        C:/Users/Alumnos/Desktop/simuladores_de_fisicas/Sim_Fisica_EGL/Tema_1/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.exe
       
   -
     kind: "message-v1"
@@ -97,7 +97,7 @@ events:
     message: |
       Detecting CXX compiler /showIncludes prefix:
         main.c
-        Nota: inclusión del archivo: C:\\Users\\Alumnos\\Desktop\\simuladores_de_fisicas\\Tema_1\\cmake-build-debug-visual-studio\\CMakeFiles\\ShowIncludes\\foo.h
+        Nota: inclusión del archivo: C:\\Users\\Alumnos\\Desktop\\simuladores_de_fisicas\\Sim_Fisica_EGL\\Tema_1\\cmake-build-debug-visual-studio\\CMakeFiles\\ShowIncludes\\foo.h
         
       Found prefix "Nota: inclusión del archivo: "
   -
@@ -109,8 +109,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/Alumnos/Desktop/simuladores_de_fisicas/Tema_1/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-9auirt"
-      binary: "C:/Users/Alumnos/Desktop/simuladores_de_fisicas/Tema_1/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-9auirt"
+      source: "C:/Users/Alumnos/Desktop/simuladores_de_fisicas/Sim_Fisica_EGL/Tema_1/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-1tlozu"
+      binary: "C:/Users/Alumnos/Desktop/simuladores_de_fisicas/Sim_Fisica_EGL/Tema_1/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-1tlozu"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -122,10 +122,10 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: C:/Users/Alumnos/Desktop/simuladores_de_fisicas/Tema_1/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-9auirt
+        Change Dir: C:/Users/Alumnos/Desktop/simuladores_de_fisicas/Sim_Fisica_EGL/Tema_1/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-1tlozu
         
-        Run Build Command(s):C:/Users/Alumnos/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -v cmTC_5fab9 && [1/2] C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_5fab9.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_5fab9.dir\\ /FS -c C:\\Users\\Alumnos\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c
-        [2/2] cmd.exe /C "cd . && C:\\Users\\Alumnos\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_5fab9.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_5fab9.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_5fab9.exe /implib:cmTC_5fab9.lib /pdb:cmTC_5fab9.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cmd.exe /C "cd /D C:\\Users\\Alumnos\\Desktop\\simuladores_de_fisicas\\Tema_1\\cmake-build-debug-visual-studio\\CMakeFiles\\CMakeScratch\\TryCompile-9auirt && C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file C:/Users/Alumnos/.vcpkg-clion/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary C:/Users/Alumnos/Desktop/simuladores_de_fisicas/Tema_1/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-9auirt/cmTC_5fab9.exe -installedDir C:/Users/Alumnos/.vcpkg-clion/vcpkg/installed/x64-windows/debug/bin -OutVariable out""
+        Run Build Command(s):C:/Users/Alumnos/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -v cmTC_35857 && [1/2] C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_35857.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_35857.dir\\ /FS -c C:\\Users\\Alumnos\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c
+        [2/2] cmd.exe /C "cd . && C:\\Users\\Alumnos\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_35857.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_35857.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_35857.exe /implib:cmTC_35857.lib /pdb:cmTC_35857.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cmd.exe /C "cd /D C:\\Users\\Alumnos\\Desktop\\simuladores_de_fisicas\\Sim_Fisica_EGL\\Tema_1\\cmake-build-debug-visual-studio\\CMakeFiles\\CMakeScratch\\TryCompile-1tlozu && C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file C:/Users/Alumnos/.vcpkg-clion/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary C:/Users/Alumnos/Desktop/simuladores_de_fisicas/Sim_Fisica_EGL/Tema_1/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-1tlozu/cmTC_35857.exe -installedDir C:/Users/Alumnos/.vcpkg-clion/vcpkg/installed/x64-windows/debug/bin -OutVariable out""
         
       exitCode: 0
   -
@@ -137,8 +137,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/Alumnos/Desktop/simuladores_de_fisicas/Tema_1/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-8or04b"
-      binary: "C:/Users/Alumnos/Desktop/simuladores_de_fisicas/Tema_1/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-8or04b"
+      source: "C:/Users/Alumnos/Desktop/simuladores_de_fisicas/Sim_Fisica_EGL/Tema_1/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-kbfs53"
+      binary: "C:/Users/Alumnos/Desktop/simuladores_de_fisicas/Sim_Fisica_EGL/Tema_1/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-kbfs53"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -150,10 +150,10 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: C:/Users/Alumnos/Desktop/simuladores_de_fisicas/Tema_1/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-8or04b
+        Change Dir: C:/Users/Alumnos/Desktop/simuladores_de_fisicas/Sim_Fisica_EGL/Tema_1/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-kbfs53
         
-        Run Build Command(s):C:/Users/Alumnos/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -v cmTC_aaa5e && [1/2] C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_aaa5e.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_aaa5e.dir\\ /FS -c C:\\Users\\Alumnos\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp
-        [2/2] cmd.exe /C "cd . && C:\\Users\\Alumnos\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_aaa5e.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_aaa5e.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_aaa5e.exe /implib:cmTC_aaa5e.lib /pdb:cmTC_aaa5e.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cmd.exe /C "cd /D C:\\Users\\Alumnos\\Desktop\\simuladores_de_fisicas\\Tema_1\\cmake-build-debug-visual-studio\\CMakeFiles\\CMakeScratch\\TryCompile-8or04b && C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file C:/Users/Alumnos/.vcpkg-clion/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary C:/Users/Alumnos/Desktop/simuladores_de_fisicas/Tema_1/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-8or04b/cmTC_aaa5e.exe -installedDir C:/Users/Alumnos/.vcpkg-clion/vcpkg/installed/x64-windows/debug/bin -OutVariable out""
+        Run Build Command(s):C:/Users/Alumnos/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -v cmTC_87a53 && [1/2] C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_87a53.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_87a53.dir\\ /FS -c C:\\Users\\Alumnos\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp
+        [2/2] cmd.exe /C "cd . && C:\\Users\\Alumnos\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_87a53.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_87a53.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_87a53.exe /implib:cmTC_87a53.lib /pdb:cmTC_87a53.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cmd.exe /C "cd /D C:\\Users\\Alumnos\\Desktop\\simuladores_de_fisicas\\Sim_Fisica_EGL\\Tema_1\\cmake-build-debug-visual-studio\\CMakeFiles\\CMakeScratch\\TryCompile-kbfs53 && C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file C:/Users/Alumnos/.vcpkg-clion/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary C:/Users/Alumnos/Desktop/simuladores_de_fisicas/Sim_Fisica_EGL/Tema_1/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-kbfs53/cmTC_87a53.exe -installedDir C:/Users/Alumnos/.vcpkg-clion/vcpkg/installed/x64-windows/debug/bin -OutVariable out""
         
       exitCode: 0
 ...
