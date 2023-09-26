@@ -1,0 +1,3 @@
+C:/Users/Asus Rog/Documents/Simuladores_de_fisica/Sim_Fisica_EGL/hola_pelota/cmake-build-debug-visual-studio/CMakeFiles/hola_pelota.dir
+C:/Users/Asus Rog/Documents/Simuladores_de_fisica/Sim_Fisica_EGL/hola_pelota/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+C:/Users/Asus Rog/Documents/Simuladores_de_fisica/Sim_Fisica_EGL/hola_pelota/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir

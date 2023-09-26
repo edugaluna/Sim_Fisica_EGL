@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Tema_1.exe"
+			"path" : "hola_pelota.exe"
 		},
 		{
-			"path" : "Tema_1.pdb"
+			"path" : "hola_pelota.pdb"
 		}
 	],
 	"backtrace" : 2,
@@ -19,7 +19,7 @@
 		],
 		"files" : 
 		[
-			"C:/Users/Alumnos/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake",
+			"C:/Users/Asus Rog/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake",
 			"CMakeLists.txt"
 		],
 		"nodes" : 
@@ -61,7 +61,7 @@
 				{
 					"backtrace" : 3,
 					"isSystem" : true,
-					"path" : "C:/Users/Alumnos/.vcpkg-clion/vcpkg/installed/x64-windows/include"
+					"path" : "C:/Users/Asus Rog/.vcpkg-clion/vcpkg/installed/x64-windows/include"
 				}
 			],
 			"language" : "CXX",
@@ -79,7 +79,7 @@
 			]
 		}
 	],
-	"id" : "Tema_1::@6890427a1f51a3e7e1df",
+	"id" : "hola_pelota::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -94,7 +94,7 @@
 			},
 			{
 				"backtrace" : 3,
-				"fragment" : "C:\\Users\\Alumnos\\.vcpkg-clion\\vcpkg\\installed\\x64-windows\\debug\\lib\\box2d.lib",
+				"fragment" : "\"C:\\Users\\Asus Rog\\.vcpkg-clion\\vcpkg\\installed\\x64-windows\\debug\\lib\\box2d.lib\"",
 				"role" : "libraries"
 			},
 			{
@@ -104,8 +104,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "Tema_1",
-	"nameOnDisk" : "Tema_1.exe",
+	"name" : "hola_pelota",
+	"nameOnDisk" : "hola_pelota.exe",
 	"paths" : 
 	{
 		"build" : ".",
